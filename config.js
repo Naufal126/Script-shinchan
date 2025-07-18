@@ -21,10 +21,10 @@ global.minimaldeposit = 10000; //ubah aja mau berapa
 
 
 /*~~~~~~All global~~~~~~~*/
-global.owner = ['6285184771530'] // SETTING JUGA DI FOLDER DATABASE
-global.ownernumber = "6285184771530" //ganti saja ama nomer mu
-global.botnumber = "6281228233753" //NOMOR LU
-global.botNumber = "6281228233753"
+global.owner = ['8562057060337'] // SETTING JUGA DI FOLDER DATABASE
+global.ownernumber = "8562057060337" //ganti saja ama nomer mu
+global.botnumber = "6285184771530" //NOMOR LU
+global.botNumber = "6285184771530"
 global.ig = '@always_zero_two' //ubah jadi nama Instagram lu
 global.yt = 'ytta' //ubah jadi nama yt lu, gapunya yt? biarin aj
 global.namabot = "Sinchan | MD✨" // Ganti serah lu

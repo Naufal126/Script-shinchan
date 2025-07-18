@@ -1,0 +1,17 @@
+{
+  "628xxx@g.us": {
+    "status": true,
+    "join": "Selamat datang @user di @group",
+    "leave": "Selamat tinggal @user dari @group"
+  },
+  "120363401410061888@g.us": {
+    "status": false,
+    "join": "Selamat datang @user di *@group*\n\nPada : @tanggal",
+    "leave": "Selamat tinggal @user semoga masuk *Neraka* jangan balik lagi asu\n\nLeave : @tanggal"
+  },
+  "120363418997741483@g.us": {
+    "status": false,
+    "join": "Selamat datang @user di *Neraka* jangan lupa ibadah\n\n@tanggal",
+    "leave": "Selamat jalan @user kamu telah di buang di *Neraka Jahanam* Jangan balik\n\n@tanggal"
+  }
+}
